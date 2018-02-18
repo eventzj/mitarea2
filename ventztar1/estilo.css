@@ -1,0 +1,14 @@
+#divBoton{
+	text-align:center;
+}
+
+html{
+	background:blue;
+}
+
+body{
+	margin:60px;
+	border:solid 2px pink;
+	padding:15px;
+	background:white;
+}
